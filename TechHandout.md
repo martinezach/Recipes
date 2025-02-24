@@ -10,7 +10,7 @@ geometry:
 - left=30mm
 - right=25mm
 - bottom=30mm
-...
+---
 
 
 # Soluciones de uso comun
@@ -54,7 +54,6 @@ MANIPULAR CON CUIDADO
 Aforar al volumen final
 ~~~~
 
-\newpage{}
 
 ## Soluciones para Western Blot
 
@@ -99,10 +98,6 @@ Opcionalmente se puede ajustar a 8.3
 
 + º No incluir en el stock 10x, este se agrega solo al momento de preparar el buffer 1x
 
-
-
-
-\newpage{}
 
 
 
@@ -154,7 +149,5 @@ Agregar el acido acetico y EDTA
 Verificar pH en el orden 8.4-8.6, no es necesario ajustar
 Ajustar al volumen final
 ~~~~
-
-
 
 
